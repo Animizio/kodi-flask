@@ -9,7 +9,7 @@
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
     <summary>jinja2</summary>
-    <description></description>
+    <description>A small but fast and easy to use stand-alone template engine written in pure python</description>
     <platform>all</platform>
     <language></language>
     <license>BSD</license>
